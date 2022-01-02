@@ -179,8 +179,8 @@ nav ul li {
 }
 
 .project-pic {
-  width: 80%;
-  height: 80%;
+  width: 65%;
+  height: 60%;
 }
 
 .projects-container {
@@ -197,7 +197,7 @@ nav ul li {
 .project-container {
   text-align: center;
   width: 21.875rem;
-  padding: 20rem;
+  padding: 1rem;
 }
 
 .project-container p {
@@ -308,7 +308,7 @@ nav ul li {
 /* Scroll to top button ends */
 
 /* Footer section */
-.footer {
+footer {
   background-color: var(--bg-color);
   padding: 1.25rem;
   text-align: center;
